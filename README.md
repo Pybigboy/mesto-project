@@ -35,25 +35,4 @@ Mesto — это проект, реализующий функционал ди�
 - Live form validation
 - BEM Nested
 
----
-
-## Установка и запуск
-
-1. Клонируйте репозиторий:
-
-   
-    git clone https://github.com/flavvvour/mesto-project.git
-    2. Установите NPM (_Node Package Manager_):
-
-   
-    npm install
-    3. Соберите проект:
-
-   
-    npm build
-    4. Запустите проект:
-
-   
-    npm run dev
-    ---
 
